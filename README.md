@@ -10,10 +10,10 @@
 If you want to use SymProFold for your scientific project, feel free to contact the SymProFold team by email.
 
 Christoph Buhlheller  
-<img src="mailcb.svg" alt="email" height="15" />  
+<img src="mailcb.svg" alt="email" height="14" />  
 
 Tea Pavkov-Keller  
-<img src="mailtpk.svg" alt="email" height="15" />  
+<img src="mailtpk.svg" alt="email" height="14" />  
 
 
 #### References
