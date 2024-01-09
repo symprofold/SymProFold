@@ -1,4 +1,4 @@
-## References
+# SymProFold
 
 If you use code or data from this project, please cite: 
 
