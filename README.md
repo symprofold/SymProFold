@@ -17,7 +17,7 @@ Tea Pavkov-Keller
 
 
 #### Documentation and Tutorial
-For documentation, installation instructions and tutorials, see the repositories of  
+For documentation, installation instructions and tutorials, see repositories:  
 [**SymProFold**](https://github.com/symprofold/SymProFold_code)  
 [**Domain_Separator**](https://github.com/symprofold/Domain_Separator)
 
