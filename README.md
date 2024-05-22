@@ -16,6 +16,12 @@ Tea Pavkov-Keller
 <img src="mailtpk.svg" alt="email" height="14" />  
 
 
+#### Documentation and Tutorial
+For documentation, installation instructions and tutorials, see the repositories of  
+[**SymProFold**](https://github.com/symprofold/SymProFold_code)  
+[**Domain_Separator**](https://github.com/symprofold/Domain_Separator)
+
+
 #### References
 If you use code or data from this project, please cite: 
 
